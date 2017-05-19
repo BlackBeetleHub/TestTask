@@ -46,6 +46,8 @@ public class Human : Entity
         if (enemyName == "Zombie" || enemyName == "Mummy")
         {
             FileManager.WriteInfo(enemyName);
+            CoinSpawner.count = 0;
+            StatusBar.count = 0;
             Application.LoadLevel("menu");
         }
     }

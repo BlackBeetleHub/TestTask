@@ -19,5 +19,13 @@ public class Enemy : Entity
     public override void ExecuteAILogic()
     {
         direction = Labyrinth.navigateMaze.GetRandomDirection(current);
+        if(current.i > direction.i)
+        {
+            Flip(false);
+        }
+        else
+        {
+            Flip(true);
+        }
     }
 }

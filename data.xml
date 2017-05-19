@@ -1,108 +1,87 @@
-<?xml version="1.0" encoding="windows-1251"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <head>
-  <record>
-    <date>01/08/2008</date>
-    <time>14:50:50.42</time>
-    <spendTime>01/08/2008 14:50:50.42</spendTime>
+  <record name="Beetle">
+    <date>5/19/2017</date>
+    <time>2:54 PM</time>
+    <spendTime>44</spendTime>
     <circumStance>Zombie</circumStance>
     <scope>0</scope>
   </record>
-  <record>
+  <record name="sdfg">
     <date>5/19/2017</date>
-    <time>10:39 AM</time>
-    <spendTime>10:39 AM</spendTime>
+    <time>3:58 PM</time>
+    <spendTime>23</spendTime>
     <circumStance>Mummy</circumStance>
-    <scope>5</scope>
+    <scope>1</scope>
   </record>
-  <record>
+  <record name="sssss">
     <date>5/19/2017</date>
-    <time>10:41 AM</time>
-    <spendTime>10:41 AM</spendTime>
+    <time>4:00 PM</time>
+    <spendTime>44</spendTime>
     <circumStance>Mummy</circumStance>
-    <scope>0</scope>
+    <scope>3</scope>
   </record>
-  <record>
+  <record name="No Name">
     <date>5/19/2017</date>
-    <time>10:42 AM</time>
-    <spendTime>10:42 AM</spendTime>
+    <time>4:02 PM</time>
+    <spendTime>32</spendTime>
+    <circumStance>Zombie</circumStance>
+    <scope>2</scope>
+  </record>
+  <record name="KIK">
+    <date>5/19/2017</date>
+    <time>4:02 PM</time>
+    <spendTime>11</spendTime>
+    <circumStance>Zombie</circumStance>
+    <scope>2</scope>
+  </record>
+  <record name="KIK">
+    <date>5/19/2017</date>
+    <time>4:02 PM</time>
+    <spendTime>11</spendTime>
     <circumStance>Escape</circumStance>
     <scope>0</scope>
   </record>
-  <record>
+  <record name="No Name">
     <date>5/19/2017</date>
-    <time>10:43 AM</time>
-    <spendTime>10:43 AM</spendTime>
-    <circumStance>Escape</circumStance>
-    <scope>0</scope>
-  </record>
-  <record>
-    <date>5/19/2017</date>
-    <time>10:43 AM</time>
-    <spendTime>10:43 AM</spendTime>
-    <circumStance>Escape</circumStance>
-    <scope>0</scope>
-  </record>
-  <record>
-    <date>5/19/2017</date>
-    <time>10:43 AM</time>
-    <spendTime>10:43 AM</spendTime>
+    <time>4:23 PM</time>
+    <spendTime>11</spendTime>
     <circumStance>Mummy</circumStance>
-    <scope>0</scope>
+    <scope>1</scope>
   </record>
-  <record>
+  <record name="HH">
     <date>5/19/2017</date>
-    <time>10:43 AM</time>
-    <spendTime>10:43 AM</spendTime>
+    <time>4:23 PM</time>
+    <spendTime>11</spendTime>
+    <circumStance>Escape</circumStance>
+    <scope>2</scope>
+  </record>
+  <record name="HH">
+    <date>5/19/2017</date>
+    <time>4:24 PM</time>
+    <spendTime>44</spendTime>
     <circumStance>Escape</circumStance>
     <scope>0</scope>
   </record>
-  <record>
+  <record name="No Name">
     <date>5/19/2017</date>
-    <time>10:43 AM</time>
-    <spendTime>10:43 AM</spendTime>
-    <circumStance>Escape</circumStance>
-    <scope>0</scope>
-  </record>
-  <record>
-    <date>5/19/2017</date>
-    <time>10:43 AM</time>
-    <spendTime>10:43 AM</spendTime>
+    <time>4:29 PM</time>
+    <spendTime>3.217265</spendTime>
     <circumStance>Escape</circumStance>
     <scope>1</scope>
   </record>
-  <record>
+  <record name="No Name">
     <date>5/19/2017</date>
-    <time>12:04 PM</time>
-    <spendTime>12:04 PM</spendTime>
-    <circumStance>Zombie</circumStance>
-    <scope>24</scope>
-  </record>
-  <record>
-    <date>5/19/2017</date>
-    <time>12:32 PM</time>
-    <spendTime>12:32 PM</spendTime>
-    <circumStance>Zombie</circumStance>
-    <scope>6</scope>
-  </record>
-  <record>
-    <date>5/19/2017</date>
-    <time>12:42 PM</time>
-    <spendTime>12:42 PM</spendTime>
+    <time>4:35 PM</time>
+    <spendTime>6.315274</spendTime>
     <circumStance>Mummy</circumStance>
-    <scope>32</scope>
+    <scope>1</scope>
   </record>
-  <record>
+  <record name="No Name">
     <date>5/19/2017</date>
-    <time>1:54 PM</time>
-    <spendTime>1:54 PM</spendTime>
-    <circumStance>Mummy</circumStance>
-    <scope>0</scope>
-  </record>
-  <record>
-    <date>5/19/2017</date>
-    <time>2:03 PM</time>
-    <spendTime>2:03 PM</spendTime>
-    <circumStance>Mummy</circumStance>
-    <scope>76</scope>
+    <time>4:36 PM</time>
+    <spendTime>4.824013</spendTime>
+    <circumStance>Escape</circumStance>
+    <scope>1</scope>
   </record>
 </head>

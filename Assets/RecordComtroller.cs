@@ -9,4 +9,5 @@ public class RecordComtroller : MonoBehaviour
     {
         Application.LoadLevel("Records");
     }
+
 }

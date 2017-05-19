@@ -22,14 +22,17 @@ public class ChangeNameController : MonoBehaviour
     {
         Button btn = GetComponent<Button>();
         text = iField.text;
+        
         btn.onClick.AddListener(TaskOnClick);
     }
 
     void TaskOnClick()
     {
+
         XmlSerializer formatter = new XmlSerializer(typeof(string));
         text = iField.text;
-        using (FileStream fs = new FileStream("config.xml", FileMode.OpenOrCreate))
+        FileManager.CurrentUserName = text;
+        using (FileStream fs = new FileStream(FileManager.FileNameConfig, FileMode.OpenOrCreate))
         {
             formatter.Serialize(fs, text);
         }

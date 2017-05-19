@@ -19,5 +19,4 @@ public class StatusBar : MonoBehaviour
         text.text = count.ToString();
     }
 
-    
 }

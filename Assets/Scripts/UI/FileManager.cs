@@ -30,7 +30,6 @@ public struct Record
 public class FileManager : MonoBehaviour
 {
     public static string FileNameData = "data.xml";
-    public static string FileNameConfig = "config.xml";
     public static string CurrentUserName = "No Name";
 
     public GameObject User;
@@ -118,7 +117,6 @@ public class FileManager : MonoBehaviour
                     scope += childNode.InnerText;
                 }
             }
-            Debug.Log(dateTimeSpend.ToString());
             records.Add(new Record(Convert.ToDateTime(dateTime), currentName, Convert.ToInt32(scope), float.Parse(dateTimeSpend), circumStance));
         }
         for (int i = 0, k = 1; i < records.Count; i++, k++)

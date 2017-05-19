@@ -84,4 +84,25 @@
     <circumStance>Escape</circumStance>
     <scope>1</scope>
   </record>
+  <record name="No Name">
+    <date>5/19/2017</date>
+    <time>4:59 PM</time>
+    <spendTime>4.924586</spendTime>
+    <circumStance>Mummy</circumStance>
+    <scope>1</scope>
+  </record>
+  <record name="Кирилл">
+    <date>5/19/2017</date>
+    <time>5:00 PM</time>
+    <spendTime>13.30934</spendTime>
+    <circumStance>Zombie</circumStance>
+    <scope>2</scope>
+  </record>
+  <record name="Кирилл">
+    <date>5/19/2017</date>
+    <time>5:00 PM</time>
+    <spendTime>2.537248</spendTime>
+    <circumStance>Escape</circumStance>
+    <scope>0</scope>
+  </record>
 </head>
